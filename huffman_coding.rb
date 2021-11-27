@@ -1,7 +1,7 @@
 '''
 ===================================================================
-Project Name  : 情報理論 ハフマン符号化
-File Name     : huffman_coding.py
+Project Name  : ハフマン符号化
+File Name     : huffman_coding.rb
 Encoding      : UTF-8
 Creation Date : 2/1/2021
 Copyright (c) 2021 Yuma Horaguchi All rights reserved.
